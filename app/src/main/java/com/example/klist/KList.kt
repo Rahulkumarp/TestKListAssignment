@@ -15,8 +15,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 
 
-val KList: KListBuilder
-    get() = KListBuilder()
+val KList: KListBuilder get() = KListBuilder()
 
 class KListBuilder internal constructor() {
     private var padding: Dp = 0.dp
