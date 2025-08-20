@@ -1,9 +1,10 @@
-package com.example.klist
+package com.example.klist.screens
 
 import android.widget.Toast
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import com.example.klist.screens.custombuilders.KList
 
 @Composable
 fun KListDemo() {

@@ -1,13 +1,19 @@
-#Wed Aug 20 21:18:32 IST 2025
-path.3=classes2.dex
-path.2=1/classes.dex
+#Wed Aug 20 21:27:56 IST 2025
+path.4=2/classes.dex
+path.3=1/classes.dex
+path.2=10/classes.dex
 path.1=0/classes.dex
+path.5=classes2.dex
 path.0=classes.dex
-base.3=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.2=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.4=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.3=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
 base.1=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.0=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=D\:\\PracticeProject\\KListAssignment\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex

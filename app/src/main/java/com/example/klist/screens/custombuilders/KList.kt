@@ -1,6 +1,5 @@
-package com.example.klist
+package com.example.klist.screens.custombuilders
 
-import android.widget.Toast
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.padding

@@ -1,4 +1,4 @@
-package com.example.klist
+package com.example.klist.screens
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
